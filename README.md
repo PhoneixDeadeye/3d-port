@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Rohan Agarwal**
 - GitHub: [@PhoneixDeadeye](https://github.com/PhoneixDeadeye)
 - LinkedIn: [Rohan Agarwal](https://www.linkedin.com/in/rohan-agarwal007/)
-- Email: [Your Email Address]
+- Email: agarwalrohan2004@gmail.com
 
 ## 🙏 Acknowledgments
 
